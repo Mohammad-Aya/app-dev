@@ -10,3 +10,6 @@ My first repository
 ## Series
 1. *Fireworks of My Heart*  
 
+### Why I Love Them
+-Inspiring narratives.
+ -Engaging characters.
